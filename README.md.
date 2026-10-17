@@ -1,0 +1,28 @@
+CleanCity — AI-Based Waste Cleanup Verification System
+
+Project Overview
+
+CleanCity is a hackathon project focused on improving the verification of waste cleanup activities using before-and-after photographs.
+
+Key Objectives
+
+- Verify cleanup activities using before-and-after images.
+- Categorize waste into wet, dry, and hazardous waste.
+- Check whether the photographs correspond to the same location using visual and background consistency.
+- Support transparent and reliable waste management.
+
+Proposed Workflow
+
+1. Capture a photograph before cleanup.
+2. Perform the cleanup and capture an after photograph.
+3. Compare the photographs to assess whether they show the same location.
+4. Classify the waste where the required classification functionality is available.
+5. Record the verification result.
+
+Technologies
+
+To be updated based on the tools and technologies actually implemented in this project.
+
+Project Status
+
+Hackathon project. Implementation details and working features will be documented as development progresses.
